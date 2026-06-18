@@ -32,4 +32,4 @@ I'm actively looking for a remote software developer role. Self-taught, I ship r
 ## Find me
 
 - CurseForge: Wheelbarrel00
-- Email: (add your preferred contact email here)
+- Email: wheelbarrel00@gmail.com
