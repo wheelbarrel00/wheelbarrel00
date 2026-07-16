@@ -14,7 +14,7 @@ WoW addons, published on CurseForge under Wheelbarrel00:
 - **Languages:** TypeScript, JavaScript, Lua, Bash (Rust and Kotlin in active projects)
 - **Web:** React, Vite, Tailwind CSS, Supabase (PostgreSQL), Vercel
 - **Dev tooling:** VS Code / Cursor and Zed extension APIs, Model Context Protocol (MCP) SDK, Open VSX, GitHub Actions
-- **Systems:** Linux (CLI since my early twenties), headless servers, Git and GitHub, AI-assisted development with Claude Code
+- **Systems:** Linux (CLI since my early twenties), headless servers, Git and GitHub
 
 ## Find me
 
