@@ -4,10 +4,10 @@
 
 WoW addons, published on CurseForge under Wheelbarrel00:
 
-- **Loot Pro** — loot management and tracking.
+- **Loot Pro** loot management and tracking.
 - **Everything Quests** and **Everything Delves** — quest and content tracking, maintained across game patches.
-- **Cooldown Master** (beta) — a real-time cooldown HUD.
-- **XLoot** — I maintain this long-running community loot addon, continued with the original author's permission.
+- **Cooldown Master** (beta) a real-time cooldown HUD.
+- **XLoot** I maintain this long-running community loot addon, continued with the original author's permission.
 
 ## Stack
 
